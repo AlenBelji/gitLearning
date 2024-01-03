@@ -6,6 +6,7 @@ class abc{
         for(int i=0;i<10;i++){
             a[i]=in.nextLine();
         }
+        System.out.println("Enetr The index");
         int x=in.nextInt();
         System.out.println("Value -"+a[x]);
     }
