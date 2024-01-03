@@ -10,5 +10,6 @@ class abc{
         System.out.println("Enetr The index");
         int x=in.nextInt();
         System.out.println("Value - "+a[x]);
+        in.close();
     }
 }
